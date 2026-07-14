@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/goatdkai/ZenSpeedhub/refs/heads/main/ZenSpeedhub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/goatdkai/script.lua/refs/heads/main/script.lua"))()
 
 task.wait(0.5)
 
